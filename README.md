@@ -17,22 +17,22 @@ Backend
 - SQL
 
 ## Run Locally
-1 - Install the database locally
+- Install the database locally
 backend\config
-2 - Open 'frontend/src/config/localhost.js'
-2.1 - Set your custom configs
-3 - Open 'backend/config/localhost.js'
-3.1 - Set your custom configs
-4 - Go to the 'frontend' folder
-4.1 - Run npm run install
-4.2 - Run npm run start
-5 - Go to the 'backend' folder
-5.1 - Run npm run install
-5.2 - Run npm run start
-6 - Create the database tables
-npm run db:reset:localhost
-This command will DROP ALL THE DATABASE TABLES. Make sure you are running it pointing to the correct database.
-7 - The app will be available at https://localhost:8080.
+- Open 'frontend/src/config/localhost.js'
+  - Set your custom configs
+- Open 'backend/config/localhost.js'
+  - Set your custom configs
+- Go to the 'frontend' folder
+  - Run `npm run install`
+  - Run `npm run start`
+- Go to the 'backend' folder
+  - Run `npm run install`
+  - Run `npm run start`
+- Create the database tables
+  - Run `npm run db:reset:localhost`
+(This command will DROP ALL THE DATABASE TABLES. Make sure you are running it pointing to the correct database.)
+- The app will be available at https://localhost:8080.
 
 ## Demo
 ### login
