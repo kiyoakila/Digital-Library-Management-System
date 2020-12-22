@@ -36,12 +36,12 @@ backend\config
 
 ## Demo
 ### login
-![login](./assets/login.png)
+![login](./assets/login.jpg)
 ### request to borrow/return book
-![borrow](./assets/borrow.png)
+![borrow](./assets/borrow.jpg)
 ### browse the booklist
-![booklist](./assets/booklist.png)
-### librarian view
-![librarian](./assets/librarian.png)
+![booklist](./assets/booklist.jpg)
+### users
+![librarian](./assets/users.jpg)
 ### book management
-![addbook](./assets/addbook.png)
+![addbook](./assets/addbook.jpg)
