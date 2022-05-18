@@ -7,14 +7,11 @@ Users include users and administrators.
   2. maintaining book-related information, including adding books, deleting books, modifying book information, and querying books; the administrator maintains book status information, which will determine whether readers can successfully reserve books.
 
 ## Dependency
-Front End
 - Vue.js
 - NodeJS
 - Vuex
 - Element UI
 - ExpressJS
-Backend
-- SQL
 
 ## Run Locally
 - Install the database locally
